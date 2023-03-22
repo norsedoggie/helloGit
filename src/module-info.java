@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+/**
+ * @author dog
+ *
+ */
+module helloGit 
+{
+	
+	
+}
